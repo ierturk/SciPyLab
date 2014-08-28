@@ -16,10 +16,7 @@ limitations under the License.
 
 from scilink import SciLink
 from threading import Thread
-from configparser import ConfigParser
 
-import os
-import sys
 import time
 
 
