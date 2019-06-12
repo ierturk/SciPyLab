@@ -2,7 +2,7 @@
 
 Python Scilab binding
 
->**Author** ierturk [ierturk@ieee.org](mailto:ierturk@ieee.org) @ [StarGateInc ](http://erturk.online)  
+>**Author** ierturk [ierturk@ieee.org](mailto:ierturk@ieee.org) @ [StarGateInc ](http://erturk.me)  
 >**Version** 0.0.0  
 >**Date** 20-Aug-2014  
 >**Brief** Python Scilab binding
